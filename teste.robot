@@ -6,6 +6,7 @@ Library    Process
 *** Variables ***
 ${url}    https://www.demoblaze.com
 ${navegador}    chrome
+
 *** Keywords ***
 Adicionar itens carrinho de compra
     Click Link    Laptops   
